@@ -12,7 +12,7 @@ function tellMe(joke) {
     VoiceRSS.speech({
         key: '1cceceeb74db49b3a49dbc7f17c59469',
         src: joke,
-        hl: 'en-gb',
+        hl: 'en-us',
         v: 'Harry',
         r: 0, 
         c: 'mp3',
